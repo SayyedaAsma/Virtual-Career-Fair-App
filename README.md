@@ -94,8 +94,8 @@ create, read, update, delete their profile on their dashboard.
 
 This project ows its completion to the sheer hard work and untiring efforts of the team members
 
-- [Saba Saeed](https://github.com/sabasaeed8)
 - [Ushna Ijaz](https://github.com/ushnaijaz)
+- [Saba Saeed](https://github.com/sabasaeed8)
 - [Marriam Salman](https://github.com/marriamsalman)
 - [Tayyaba Asif](https://github.com/tayyaba-asif)
 - [Zainab Rizwan](https://github.com/zainab-rizwan)
