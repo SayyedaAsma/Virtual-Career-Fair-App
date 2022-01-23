@@ -68,7 +68,7 @@ First you will create an account by signing-up.
 
 <div align="center">
    <a href="https://github.com/ushnaijaz/Virtual-Career-Fair-App.git">
-<img src="usecases.png" alt="usecases" width="300" height="300">
+<img src="usecases.png" alt="usecases" width="600" height="600">
   
 </div>
 
