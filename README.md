@@ -67,7 +67,7 @@ As seen in the use case diagram all the functionalities offered on the web appli
 First you will create an account by signing-up.
 
 <div align="center">
-[![usecases.png](https://i.postimg.cc/vZ0Yp05W/usecases.png)](https://postimg.cc/CRfp8HP1)
+[![usecases.png](https://i.postimg.cc/2ykXR7QZ/usecases.png)](https://postimg.cc/8JYbLWnp)
 </div>
 
 - Recruiter Side
