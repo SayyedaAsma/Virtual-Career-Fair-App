@@ -67,7 +67,6 @@ As seen in the use case diagram all the functionalities offered on the web appli
 First you will create an account by signing-up.
 
 <div align="center">
-   <a href="https://github.com/ushnaijaz/Virtual-Career-Fair-App.git">
 <img src="usecases.png" alt="usecases" width="600" height="600">
   
 </div>
