@@ -54,7 +54,7 @@ Install and Run the Project
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/sabasaeed8/Career-Fair-App.git
+   git clone https://github.com/ushnaijaz/Virtual-Career-Fair-App.git
    ```
 
 3. Install Xampp or Wamp server from [here](https://www.wampserver.com/en/) or [here](https://www.apachefriends.org/download.html).
