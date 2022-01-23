@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sabasaeed8/Career-Fair-App.git">
+  <a href="https://github.com/ushnaijaz/Virtual-Career-Fair-App.git">
     <img src="uetlogo.png" alt="Logo" width="80" height="80">
   </a>
  </div>
@@ -67,7 +67,9 @@ As seen in the use case diagram all the functionalities offered on the web appli
 First you will create an account by signing-up.
 
 <div align="center">
-[usecases.png](https://postimg.cc/CRfp8HP1)
+   <a href="https://github.com/ushnaijaz/Virtual-Career-Fair-App.git">
+<img src="usecases.png" alt="usecases" width="300" height="300">
+  
 </div>
 
 - Recruiter Side
